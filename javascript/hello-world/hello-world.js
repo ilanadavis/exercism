@@ -7,7 +7,7 @@
 var HelloWorld = function () {};
 
 HelloWorld.prototype.hello = function () {
-//
+  return "Hello, World!";
 // YOUR CODE GOES HERE
 //
 };
